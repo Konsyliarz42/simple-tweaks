@@ -8,7 +8,8 @@ Simple tweaks for minecraft
   - Planks
   - Logs
   - Stripped logs
+  - Barrels
 
 ## Optional features (Required: [Optifine](https://optifine.net/home))
 
--
+- Barrels in all wood types
