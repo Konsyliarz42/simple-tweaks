@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_gate_open",
+  "textures": {
+    "fence": "block/crimson_fence",
+    "gate": "block/crimson_gate"
+  }
+}

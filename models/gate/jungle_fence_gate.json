@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_gate",
+  "textures": {
+    "fence": "block/jungle_fence",
+		"gate": "block/jungle_gate"
+  }
+}

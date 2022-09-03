@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_gate_open_invert",
+  "textures": {
+    "fence": "block/dark_oak_fence",
+    "gate": "block/dark_oak_gate"
+  }
+}
