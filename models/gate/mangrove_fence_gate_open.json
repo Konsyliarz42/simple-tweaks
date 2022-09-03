@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_gate_open",
+  "textures": {
+    "fence": "block/mangrove_fence",
+    "gate": "block/mangrove_gate"
+  }
+}
