@@ -1,0 +1,7 @@
+assets
+
+*.lnk
+*.zip
+
+*copy.*
+desktop.ini
